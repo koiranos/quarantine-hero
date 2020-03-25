@@ -28,9 +28,7 @@
       },
       "noInternet": {
         "preOptionalBreak": "Nicht jeder Mensch hat Internet.",
-        "preLink": "Drucke",
-        "link": "diesen Aushang",
-        "postLink": "."
+        "postOptionalBreak": "Drucke diesen Aushang in deiner Sprache aus."
       },
       "buttons": {
         "wantToHelp": "ICH MÖCHTE HELFEN",
@@ -125,8 +123,8 @@
       "howHelpPeopleWithoutInternet": {
         "question": "Wie kann ich Leuten helfen, die kein Internet haben?",
         "answer": {
-          "preLink": "Du kannst auch einen Aushang im Treppenhaus deiner Wohnung aufhängen. Eine Vorlage haben wir dir",
-          "link": "hier zum Download",
+          "preLink": "Du kannst auch einen Aushang im Treppenhaus deiner Wohnung aufhängen. Vorlagen in mehreren Sprachen haben wir dir",
+          "link": "auf der Startseite",
           "postLink": "bereitgestellt."
         }
       }
@@ -160,10 +158,12 @@
   "components": {
     "desktopMenu": {
       "yourOverview": "DEINE ÜBERSICHT",
+      "myOverview": "Meine Übersicht",
       "requestHelp": "HILFE ANFRAGEN",
       "help": "HELFEN",
       "FAQs": "FAQs",
-      "signOut": "ABMELDEN"
+      "signOut": "Logout",
+      "safety": "SICHERHEIT"
     },
     "sidebar": {
       "home": "Home",
@@ -194,7 +194,8 @@
       "showResponses_plural": "{{count}} Antworten ansehen",
       "hideResponses": "Antwort verbergen",
       "hideResponses_plural": "{{count}} Antworten verbergen",
-      "deleteRequestForHelp": "Löschen"
+      "deleteRequestForHelp": "Löschen",
+      "registrationReason": "den Beitrag zu melden"
     },
     "filteredList": {
       "in": "In",
